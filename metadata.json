@@ -1,0 +1,6 @@
+{
+  "name": "NetLearn: Trasporto",
+  "description": "App didattica interattiva sullo strato di trasporto (OSI Layer 4), con simulatore UDP e assistente AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
